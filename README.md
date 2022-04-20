@@ -1,2 +1,2 @@
 # MiniProject
-Blog Management using simulation Analysis
+Blog Management using sentiment Analysis
